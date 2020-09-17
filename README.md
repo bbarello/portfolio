@@ -26,4 +26,4 @@ breakpoints at 320px, 640px, 768px and 980px.
 ## Screenshotsgit 
 
 ![Responsive](portfolio1.png)
-![Responsive and Desktop](portfolio1.png)
+![Responsive and Desktop](portfolio2.png)
