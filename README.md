@@ -9,12 +9,6 @@ Portfolio was created to be responsive based on viewports of desktop and mobile 
 
 ```
 
-## Screenshots:
-
-![Responsive](portfolio1.png)
-![Responsive and Desktop](portfolio1.png)
-
-
 ## Technologies
 
 ```
@@ -24,3 +18,10 @@ Portfolio was created to be responsive based on viewports of desktop and mobile 
 - Responsive Design(RWD)
 - Ada Accessibility
 - Search Engine Optimization(SEO)
+
+```
+
+## Screenshotsgit :
+
+![Responsive](portfolio1.png)
+![Responsive and Desktop](portfolio1.png)
