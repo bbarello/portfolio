@@ -16,7 +16,7 @@ breakpoints at 320px, 640px, 768px and 980px.
 ```
 - HTML
 - CSS
-- Boostrap 4
+- Bootstrap 4
 - Responsive Design(RWD)
 - Ada Accessibility
 - Search Engine Optimization(SEO)
