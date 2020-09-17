@@ -21,7 +21,7 @@ Portfolio was created to be responsive based on viewports of desktop and mobile 
 
 ```
 
-## Screenshotsgit :
+## Screenshots
 
 ![Responsive](portfolio1.png)
 ![Responsive and Desktop](portfolio1.png)
