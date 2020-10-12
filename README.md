@@ -27,7 +27,7 @@ https://github.com/bbarello
 ## Linkedin:
 https://www.linkedin.com/in/bryan-barello/
 
-##  Stagin Link:
+##  Staging Link:
 https://bbarello.gitthub.io/portfolio/
 
 
