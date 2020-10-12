@@ -34,5 +34,5 @@ https://bbarello.gitthub.io/portfolio/
 
 ## Screenshot:
 
-![Responsive](portfolio1.png)
+![Responsive](portfolio-demo.jpg)
 
