@@ -1,4 +1,4 @@
-# Portfolio: Bryan Barello
+# Responsive Portfolio
 
 A responsive portfolio of Bryan Barello.
 
