@@ -22,8 +22,10 @@ at 320px, 640px, 768px and 980px.
 
 ```
 ## GitHub:
+https://github.com/bbarello
 
 ## Linkedin:
+https://www.linkedin.com/in/bryan-barello/
 
 ##  Stagin Link:
 https://bbarello.gitthub.io/portfolio/
