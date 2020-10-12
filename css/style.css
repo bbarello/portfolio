@@ -25,7 +25,7 @@ hr {
 
 .navbar-light .navbar-toggler {
     color: #ccc;
-    border-color: black;
+    border-color: #ccc;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -79,6 +79,7 @@ margin-bottom:30px;
         max-width:100%!important;
     }
     
+    
     .col-md-12 {
         padding-right:0;
         margin-right: 0;
@@ -87,12 +88,15 @@ margin-bottom:30px;
 
     
     .navbar-light .navbar-nav .nav-link {
-    color: rgba(0,0,0,.5);
+    color: #000;
     position: relative;
-    left: 82%;
+    left: 73%;
     z-index:10;
     font-weight:500;
-    top:-20px;
+    top:-30px;
+    background:#fff;
+    border:1px solid #ccc;
+    padding: 5px 0 5px 10px;
     }
 
     .navbar-expand-lg {
@@ -103,7 +107,7 @@ margin-bottom:30px;
 
     .navbar-brand{
         margin-left:6%;
-        width:30% !important;
+        width:42% !important;
     }
     .collapse {
         margin-right:0!important;
@@ -131,12 +135,15 @@ margin-bottom:30px;
     }
 
     .border{
-        width:95%;
+        width:90%;
+        margin-left:5%!important;
+        margin-right:5%!important;
     }
+
     
     .pr-5, .pl-5 { 
-        padding-left:0;
-        padding-right:0;
+        padding-left:0!important;
+        padding-right:0!important;
     }
     img#about{
         display:none!important;

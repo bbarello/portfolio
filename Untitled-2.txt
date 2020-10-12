@@ -1,0 +1,15 @@
+
+
+
+Game
+
+Object
+1. Word
+2. Letter
+3 Game Loop (gueses left, matches)
+
+
+Method
+1. Ask User for Input
+2. Play 
+3. display underscore if correctly

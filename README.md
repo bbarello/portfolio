@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio: Bryan Barello
 
 A responsive portfolio of Bryan Barello.
 
@@ -35,4 +35,4 @@ https://bbarello.gitthub.io/portfolio/
 ## Screenshot:
 
 ![Responsive](portfolio1.png)
-![Responsive and Desktop](portfolio2.png)
+
