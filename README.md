@@ -21,12 +21,16 @@ at 320px, 640px, 768px and 980px.
 - Search Engine Optimization(SEO)
 
 ```
-##  Website Demo Link
-https://bbarello.github.io/portfolio/
+## GitHub:
+
+## Linkedin:
+
+##  Stagin Link:
+https://bbarello.gitthub.io/portfolio/
 
 
 
-## Screenshots
+## Screenshot:
 
 ![Responsive](portfolio1.png)
 ![Responsive and Desktop](portfolio2.png)
