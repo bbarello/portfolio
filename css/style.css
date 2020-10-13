@@ -148,11 +148,11 @@ border: 1px solid #ccc;
         margin-top:20px!important;
     }
 
-    
-    .pr-5, .pl-5 { 
+    div.flex-column.pr-5.px-5 { 
         padding-left:0!important;
         padding-right:0!important;
     }
+
     img#about{
         display:none!important;
         max-width:90%;
