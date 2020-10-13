@@ -107,7 +107,7 @@ border: 1px solid #ccc;
 @media (min-width: 320px) and (max-width: 639px) { 
 
   div.border {
-    min-height: 950px;
+    /* min-height: 950px; */
     margin: 0 auto -80px;
     overflow:hidden;
     clear:both;
@@ -118,7 +118,11 @@ border: 1px solid #ccc;
     min-height:100%;
     clear:both
     }
-
+    .space{
+        height:130px;
+        clear:both;
+        margin:25px;
+    }
     .container,.container-sm{
         max-width:100%!important;
     }
