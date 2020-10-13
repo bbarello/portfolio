@@ -8,9 +8,14 @@ nav {
     border-bottom:2px solid #ccc!important;
 }
 
-footer {
-    border-top:4px solid #ccc !important;
-}
+ footer {
+        border-top: 4px solid #ccc !important!important;
+        bottom: 0!important;
+        position: relative!important;
+        width: 100%!important;
+        margin:25px 0 0 0;
+        padding:0;
+    }
 
 hr {
     margin-top: 1rem;
