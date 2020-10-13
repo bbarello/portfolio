@@ -3,10 +3,33 @@
     padding:0;
     border:0;
 }
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
 
-nav {
+  a {
+	word-wrap: break-word;
+  }
+
+  nav {
     border-bottom:2px solid #ccc!important;
-}
+  }
 
  footer {
         border-top: 4px solid #ccc !important!important;
@@ -131,6 +154,10 @@ border: 1px solid #ccc;
     }
     .nav-item{
         display:inline;
+    }
+
+    .pr-5 {
+        padding-right:0 !important;
     }
     .px-5 {
         padding-left: 0!important ;
