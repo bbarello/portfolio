@@ -177,6 +177,8 @@ border: 1px solid #ccc;
         }    
     #sticky-footer{
         width: 100%;
+        bottom:0;
+        position:fixed!important;
     }
     
 }
@@ -268,6 +270,8 @@ border: 1px solid #ccc;
 
     #sticky-footer{
         width: 100%;
+        bottom:0;
+        position:fixed!important;
     }
 }
  
@@ -326,8 +330,9 @@ border: 1px solid #ccc;
     }
 
     #sticky-footer {
-        width:100%;
+        width: 100%;
         bottom:0;
+        position:fixed!important;
     }
     
 }
@@ -382,8 +387,9 @@ border: 1px solid #ccc;
     }
 
     #sticky-footer {
-        width:100%;
+        width: 100%;
         bottom:0;
+        position:fixed!important;
     }
     
 }
