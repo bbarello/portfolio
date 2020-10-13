@@ -105,6 +105,20 @@ border: 1px solid #ccc;
 }
 
 @media (min-width: 320px) and (max-width: 639px) { 
+
+  div.border {
+    min-height: 950px;
+    margin: 0 auto -80px;
+    overflow:hidden;
+    clear:both;
+    }
+
+    * html div.border {
+    overflow:visible;
+    min-height:100%;
+    clear:both
+    }
+
     .container,.container-sm{
         max-width:100%!important;
     }
